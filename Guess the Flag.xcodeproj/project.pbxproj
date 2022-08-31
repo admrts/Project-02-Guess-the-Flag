@@ -56,15 +56,23 @@
 		49E81CAF28BF7D0900B83823 /* Guess the Flag */ = {
 			isa = PBXGroup;
 			children = (
-				49E81CB028BF7D0900B83823 /* AppDelegate.swift */,
-				49E81CB228BF7D0900B83823 /* SceneDelegate.swift */,
+				49E81CC428BF7D2100B83823 /* Supporting Files */,
 				49E81CB428BF7D0900B83823 /* ViewController.swift */,
 				49E81CB628BF7D0900B83823 /* Main.storyboard */,
+			);
+			path = "Guess the Flag";
+			sourceTree = "<group>";
+		};
+		49E81CC428BF7D2100B83823 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				49E81CB028BF7D0900B83823 /* AppDelegate.swift */,
+				49E81CB228BF7D0900B83823 /* SceneDelegate.swift */,
 				49E81CB928BF7D0B00B83823 /* Assets.xcassets */,
 				49E81CBB28BF7D0B00B83823 /* LaunchScreen.storyboard */,
 				49E81CBE28BF7D0B00B83823 /* Info.plist */,
 			);
-			path = "Guess the Flag";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
